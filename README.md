@@ -37,7 +37,7 @@
 ### 🌍 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NourSaadi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-NourSaadi-black?style=for-the-badge&logo=github)](https://github.com/NourSaadi)  
-📩 **Email:** caynoulxxynour@gmail.com (mailto:your.email@example.com)  
+📩 **Email:** caynoulxxynour@gmail.com   
 
 
 
