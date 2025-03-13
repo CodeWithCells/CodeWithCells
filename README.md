@@ -41,8 +41,8 @@
 
 
 
-### 🐍 **Contribution Snake Animation**
-![Snake animation](https://github.com/NourSaadi/NourSaadi/blob/output/github-contribution-grid-snake.svg)
+⭐ **Fun Fact:** "Innovation in biotech is where science meets magic!" ✨  
+
 
 
 
